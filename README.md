@@ -1,9 +1,9 @@
-<u>MACHINE LEARNING BASED CLASSIFIER FOR AUTONOMOUS SHORTLISTING OF POTENTIAL MERCHANTS</u>
+<ins>MACHINE LEARNING BASED CLASSIFIER FOR AUTONOMOUS SHORTLISTING OF POTENTIAL MERCHANTS</ins>
 
 While additional human evaluation is required to examine more nuanced qualitative aspects of a business such as its brand identity and ethos in #order to determine its compatibility with Kris+ as a partner, a classifier can swiftly and autonomously weed out incompatible candidates based #on more objective quantitative features. 
 
 
-<u>DATASET</u> <br />
+<ins>DATASET</ins> <br />
 
 Input features: <br />
   - Business name <br />
