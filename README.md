@@ -4,16 +4,16 @@
 
 
 #DATASET
-#Input features: 
-  \n Business name
-  #Type of business (0: Fast Food & Cafe, 1: Dining, 2: Fashion & Lifestyle, 3: Jewellery) 
-  #Number of outlets 
-  #Review Rating
+#Input features: <br />
+  Business name <br />
+  #Type of business (0: Fast Food & Cafe, 1: Dining, 2: Fashion & Lifestyle, 3: Jewellery) <br />
+  #Number of outlets <br />
+  #Review Rating <br />
 
-#Output features:
-  #0: Not suitable
-  #1: Suitable
-
+#Output features: <br />
+  #0: Not suitable <br />
+  #1: Suitable <br />
+ 
 
 #*Dataset used contains fabricated values
 #*Business types extrapolated from information provided by SIA appchallenge organising committee 
