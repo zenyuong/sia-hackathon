@@ -5,7 +5,7 @@
 
 #DATASET
 #Input features: 
-  #Business name
+  \n Business name
   #Type of business (0: Fast Food & Cafe, 1: Dining, 2: Fashion & Lifestyle, 3: Jewellery) 
   #Number of outlets 
   #Review Rating
