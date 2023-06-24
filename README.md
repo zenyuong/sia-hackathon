@@ -7,17 +7,17 @@ While additional human evaluation is required to examine more nuanced qualitativ
 
 Input features: 
   - Business name 
-  - Type of business <br />
-    - 0: Fast Food & Cafe <br />
-    - 1: Dining <br /> 
-    - 2: Fashion & Lifestyle <br /> 
-    - 3: Jewellery <br />
-  - Number of outlets <br />
-  - Review Rating <br />
+  - Type of business 
+    - 0: Fast Food & Cafe 
+    - 1: Dining
+    - 2: Fashion & Lifestyle
+    - 3: Jewellery 
+  - Number of outlets
+  - Review Rating
 
-Output features: <br />
-  - 0: Not suitable <br />
-  - 1: Suitable <br />
+Output features:
+  - 0: Not suitable 
+  - 1: Suitable 
  
 
 *Dataset used contains fabricated values <br />
