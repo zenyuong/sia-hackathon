@@ -5,8 +5,8 @@ While additional human evaluation is required to examine more nuanced qualitativ
 
 <ins>DATASET</ins> <br />
 
-Input features: <br />
-  - Business name <br />
+Input features: 
+  - Business name 
   - Type of business <br />
     - 0: Fast Food & Cafe <br />
     - 1: Dining <br /> 
